@@ -10,6 +10,6 @@ int main()
     bas(s1);
     for (int i = 0; i < 10; i++)
             push(pop(s1),s2);
-    bas(s2);
+    bas(s2); 
     
 }
